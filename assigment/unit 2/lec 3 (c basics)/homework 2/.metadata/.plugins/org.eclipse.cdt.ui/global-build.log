@@ -1,0 +1,100 @@
+19:10:25 **** Rebuild of configuration Debug for project ex8 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\ex8.o" "..\\src\\ex8.c" 
+gcc -o ex8.exe "src\\ex8.o" 
+19:10:31 **** Incremental Build of configuration Debug for project ex8 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\ex8.o" "..\\src\\ex8.c" 
+..\src\ex8.c:14:6: warning: return type of 'main' is not 'int' [-Wmain]
+ void main()
+      ^~~~
+..\src\ex8.c: In function 'main':
+..\src\ex8.c:23:10: warning: format '%c' expects argument of type 'char *', but argument 2 has type 'int' [-Wformat=]
+  scanf("%c", choice);
+          ^
+..\src\ex8.c:35:7: warning: character constant too long for its type
+  case 'divide':
+       ^~~~~~~~
+..\src\ex8.c:35:2: warning: case label value exceeds maximum value for type
+  case 'divide':
+  ^~~~
+..\src\ex8.c:23:2: warning: 'choice' is used uninitialized in this function [-Wuninitialized]
+  scanf("%c", choice);
+  ^~~~~~~~~~~~~~~~~~~
+gcc -o ex8.exe "src\\ex8.o" 
+19:11:21 **** Incremental Build of configuration Debug for project ex8 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\ex8.o" "..\\src\\ex8.c" 
+..\src\ex8.c:14:6: warning: return type of 'main' is not 'int' [-Wmain]
+ void main()
+      ^~~~
+..\src\ex8.c: In function 'main':
+..\src\ex8.c:23:10: warning: format '%c' expects argument of type 'char *', but argument 2 has type 'int' [-Wformat=]
+  scanf("%c", choice);
+          ^
+..\src\ex8.c:35:7: warning: character constant too long for its type
+  case 'divide':
+       ^~~~~~~~
+..\src\ex8.c:35:2: warning: case label value exceeds maximum value for type
+  case 'divide':
+  ^~~~
+..\src\ex8.c:23:2: warning: 'choice' is used uninitialized in this function [-Wuninitialized]
+  scanf("%c", choice);
+  ^~~~~~~~~~~~~~~~~~~
+gcc -o ex8.exe "src\\ex8.o" 
+19:12:31 **** Incremental Build of configuration Debug for project ex8 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\ex8.o" "..\\src\\ex8.c" 
+..\src\ex8.c:14:6: warning: return type of 'main' is not 'int' [-Wmain]
+ void main()
+      ^~~~
+..\src\ex8.c: In function 'main':
+..\src\ex8.c:35:7: warning: character constant too long for its type
+  case 'divide':
+       ^~~~~~~~
+..\src\ex8.c:35:2: warning: case label value exceeds maximum value for type
+  case 'divide':
+  ^~~~
+gcc -o ex8.exe "src\\ex8.o" 
+19:14:22 **** Incremental Build of configuration Debug for project ex8 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\ex8.o" "..\\src\\ex8.c" 
+..\src\ex8.c:14:6: warning: return type of 'main' is not 'int' [-Wmain]
+ void main()
+      ^~~~
+..\src\ex8.c: In function 'main':
+..\src\ex8.c:35:7: warning: character constant too long for its type
+  case 'divide':
+       ^~~~~~~~
+..\src\ex8.c:35:2: warning: case label value exceeds maximum value for type
+  case 'divide':
+  ^~~~
+gcc -o ex8.exe "src\\ex8.o" 
+19:15:51 **** Incremental Build of configuration Debug for project ex8 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\ex8.o" "..\\src\\ex8.c" 
+..\src\ex8.c:14:6: warning: return type of 'main' is not 'int' [-Wmain]
+ void main()
+      ^~~~
+..\src\ex8.c: In function 'main':
+..\src\ex8.c:36:7: warning: character constant too long for its type
+  case 'divide':
+       ^~~~~~~~
+..\src\ex8.c:36:2: warning: case label value exceeds maximum value for type
+  case 'divide':
+  ^~~~
+gcc -o ex8.exe "src\\ex8.o" 
+19:17:39 **** Incremental Build of configuration Debug for project ex8 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\ex8.o" "..\\src\\ex8.c" 
+..\src\ex8.c:14:6: warning: return type of 'main' is not 'int' [-Wmain]
+ void main()
+      ^~~~
+..\src\ex8.c: In function 'main':
+..\src\ex8.c:36:7: warning: character constant too long for its type
+  case 'divide':
+       ^~~~~~~~
+..\src\ex8.c:36:2: warning: case label value exceeds maximum value for type
+  case 'divide':
+  ^~~~
+gcc -o ex8.exe "src\\ex8.o" 

@@ -1,0 +1,10 @@
+21:05:27 **** Incremental Build of configuration Debug for project ex2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\ex2.o" "..\\src\\ex2.c" 
+..\src\ex2.c:14:6: warning: return type of 'main' is not 'int' [-Wmain]
+ void main()
+      ^~~~
+gcc -o ex2.exe "src\\ex2.o" 
+
+21:05:27 Build Finished (took 641ms)
+
