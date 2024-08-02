@@ -1,0 +1,73 @@
+09:00:21 **** Rebuild of configuration Debug for project ex5 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\ex5.o" "..\\src\\ex5.c" 
+gcc -o ex5.exe "src\\ex5.o" 
+09:00:27 **** Incremental Build of configuration Debug for project ex5 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\ex5.o" "..\\src\\ex5.c" 
+..\src\ex5.c: In function 'main':
+..\src\ex5.c:35:2: error: expected ';' before '}' token
+  }
+  ^
+09:01:46 **** Incremental Build of configuration Debug for project ex5 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\ex5.o" "..\\src\\ex5.c" 
+..\src\ex5.c: In function 'main':
+..\src\ex5.c:36:3: error: expected ';' before '}' token
+   }
+   ^
+09:02:23 **** Incremental Build of configuration Debug for project ex5 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\ex5.o" "..\\src\\ex5.c" 
+..\src\ex5.c: In function 'main':
+..\src\ex5.c:37:2: error: expected ';' before '}' token
+  }
+  ^
+..\src\ex5.c:39:1: error: expected declaration or statement at end of input
+ }
+ ^
+09:03:38 **** Incremental Build of configuration Debug for project ex5 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\ex5.o" "..\\src\\ex5.c" 
+gcc -o ex5.exe "src\\ex5.o" 
+09:05:17 **** Incremental Build of configuration Debug for project ex5 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\ex5.o" "..\\src\\ex5.c" 
+gcc -o ex5.exe "src\\ex5.o" 
+09:06:23 **** Incremental Build of configuration Debug for project ex5 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\ex5.o" "..\\src\\ex5.c" 
+..\src\ex5.c: In function 'main':
+..\src\ex5.c:27:3: warning: suggest parentheses around assignment used as truth value [-Wparentheses]
+   if(e=array[i])
+   ^~
+gcc -o ex5.exe "src\\ex5.o" 
+Info: Nothing to build for ex5
+09:16:54 **** Incremental Build of configuration Debug for project ex5 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\ex5.o" "..\\src\\ex5.c" 
+..\src\ex5.c: In function 'main':
+..\src\ex5.c:29:2: warning: suggest parentheses around assignment used as truth value [-Wparentheses]
+  if(e=array[i])
+  ^~
+gcc -o ex5.exe "src\\ex5.o" 
+09:18:47 **** Incremental Build of configuration Debug for project ex5 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\ex5.o" "..\\src\\ex5.c" 
+..\src\ex5.c: In function 'main':
+..\src\ex5.c:27:2: warning: suggest parentheses around assignment used as truth value [-Wparentheses]
+  if(e=array[i])
+  ^~
+gcc -o ex5.exe "src\\ex5.o" 
+09:23:35 **** Incremental Build of configuration Debug for project ex5 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\ex5.o" "..\\src\\ex5.c" 
+..\src\ex5.c: In function 'main':
+..\src\ex5.c:29:3: warning: suggest parentheses around assignment used as truth value [-Wparentheses]
+   if(e=array[i])
+   ^~
+gcc -o ex5.exe "src\\ex5.o" 
+09:28:17 **** Incremental Build of configuration Debug for project ex5 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\ex5.o" "..\\src\\ex5.c" 
+gcc -o ex5.exe "src\\ex5.o" 
